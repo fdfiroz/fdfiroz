@@ -37,9 +37,11 @@
 <a href="https://www.linkedin.com/in/firoz-ahammed" title="Linkedin Profile">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<a href="https://www.discordapp.com/users/fdfiroz#3513" title="Discord Profile">
+<a href="https://discord.gg/fdfiroz#3513" title="Discord Profile">
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 </a>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/fdfiroz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fdfiroz" /></a><a href="https://ko-fi.com/fdfiroz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fdfiroz" /></a></p><br><br>
 <!---
 fdfiroz/fdfiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
