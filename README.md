@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on MERN Stack project
 - 📫 How to reach me firozahamad0@gmail.com or Call:+8801918356530
-
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,materialui,nodejs,expressjs,mongodb,github,firebase,figma,replit&theme=light)](https://skillicons.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fdfiroz&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
