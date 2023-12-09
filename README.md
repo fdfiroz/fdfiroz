@@ -25,6 +25,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdfiroz&theme=transparent&layout=compact&langs_count=10&card_width=445)
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=fdfiroz&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Find me on
 <a href="https://www.facebook.com/firoz.Ahammad143" title="facebook Profile">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="mailto: firozahamed0@gmail.com
